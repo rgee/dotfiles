@@ -1,0 +1,12 @@
+{
+  "maxlen": 120,
+  "es3": true,
+  "curly": true,
+  "eqeqeq": true,
+  "indent": 2,
+  "latedef": true,
+  "unused": "strict",
+  "trailing": true,
+  "maxDepth": 4,
+  "maxcomplexity": 6
+}
