@@ -10,3 +10,5 @@ set expandtab
 set smartindent
 set autochdir
 set number
+
+set colorcolumn=120
