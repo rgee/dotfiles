@@ -1,0 +1,5 @@
+[push]
+	default = simple
+
+[alias]
+  prom = pull --rebase origin master
