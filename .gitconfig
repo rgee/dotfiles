@@ -3,3 +3,8 @@
 
 [alias]
   prom = pull --rebase origin master
+[branch]
+	autosetuprebase = always
+[user]
+	name = Ryan Gee
+	email = rgee@squarespace.com
